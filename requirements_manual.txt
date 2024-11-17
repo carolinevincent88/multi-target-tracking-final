@@ -1,0 +1,6 @@
+python==3.8
+gym==0.21
+stable-baselines3==1.6.2
+pytorch==2.2.0
+tensorboard==2.14.0
+
